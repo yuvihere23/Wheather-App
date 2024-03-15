@@ -1,4 +1,4 @@
 # First JS project
 
-# Try Here
+# Try Here for the demo
 https://silver-sopapillas-b4177b.netlify.app/
